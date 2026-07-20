@@ -331,28 +331,6 @@ The proposed framework introduces several contributions:
 
 ---
 
-# Repository Structure
-
-```
-.
-│
-├── notebooks/
-│   ├── 01_Transformer_IDS.ipynb
-│   └── 02_Threat_Intelligence.ipynb
-│
-├── outputs/
-│   ├── global_shap_importance.csv
-│   ├── classwise_shap_importance.csv
-│   ├── shap_summary.png
-│   └── threat_report_example.txt
-│
-├── requirements.txt
-│
-└── README.md
-```
-
----
-
 # Technologies Used
 
 - Python
